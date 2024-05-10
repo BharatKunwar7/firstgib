@@ -15,3 +15,5 @@ var=
 
 basic of git an dgit hub
 
+
+git conflict --user "email.id"
